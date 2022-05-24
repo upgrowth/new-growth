@@ -1,14 +1,21 @@
 # Upgrowth Candidate Assignment
 
 ## Introduction
-This is forms part of the application process for [Upgrowth](https://upgrowth.com.au/). 
-If you just wandered across this repo, and you're interested in working with us, please get in touch!
+This forms part of the application process for [Upgrowth](https://upgrowth.com.au/). 
+If you just wandered across this repo, and you're interested in working with us, please [get in touch](https://www.upgrowth.com.au/careers)!
 
 This is a [Next.js][next] application skeleton. 
 Pages are in the `pages` directory. 
 Components are in the `components` directory.
 
+To get started, clone this repo and run:
+
+```bash
+yarn install
+```
+
 You can start the dev server by running:
+
 
 ```bash
 yarn dev
