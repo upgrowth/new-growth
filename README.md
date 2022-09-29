@@ -1,8 +1,8 @@
 # Upgrowth Candidate Assignment
 
 ## Introduction
-This forms part of the application process for [Upgrowth](https://upgrowth.com.au/). 
-If you just wandered across this repo, and you're interested in working with us, please [get in touch](https://www.upgrowth.com.au/careers)!
+This forms part of the application process for [Upgrowth][website]. 
+If you just wandered across this repo, and you're interested in working with us, please [get in touch][careers]!
 
 This is a [Next.js][next] application skeleton. 
 Pages are in the `pages` directory. 
@@ -23,15 +23,19 @@ yarn dev
 
 ## Your Goal
 
-Display a well presented grid of photos from [Unsplash][unsplash]'s API. We'll share an API key with you so you don't have to register your own.
+Display a well presented grid of photos from [Unsplash][unsplash]'s API.
 
-Show us:
+> We'll share an API key with you so you don't have to register your own.
+
+Please show us:
 
 - Thoughtfulness
 - Pragmatism
 - CSS (or SCSS, etc) skills
 
 Have fun!
+
+---
 
 Feel free to:
 
@@ -40,5 +44,7 @@ Feel free to:
 
 Be ready with this project open and running for the upcoming interview, and we'll explore it and iterate on it together.
 
+[careers]: https://www.upgrowth.com.au/careers
 [next]: https://nextjs.org
 [unsplash]: https://unsplash.com/documentation
+[website]: https://upgrowth.com.au/
